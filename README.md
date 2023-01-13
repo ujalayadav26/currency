@@ -1,2 +1,2 @@
-# cuurn
-check out my currency convertor https://navneetprajapati26.github.io/cuurn/
+# currency
+check out my currency convertor https://ujalayadav26.github.io/currency/
